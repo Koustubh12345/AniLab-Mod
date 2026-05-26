@@ -1,4 +1,1 @@
-# AniLab-Mod
-Meow
-
-Anilab anime episodes downloader
+#Anilab-Mod anime episodes downloader app
